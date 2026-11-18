@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.venv/
+
+# Local database
+verification.db
+*.db
+
+# Environment variables and secrets
+.env
+
+# Editor files
+.vscode/
